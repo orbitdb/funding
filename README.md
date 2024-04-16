@@ -8,10 +8,21 @@ OrbitDB is built by a group of volunteers who are passionate about decentralizat
 
 If you are interested in sponsoring our developers or contributing to our running costs, you can donate via the following methods:
 
-- OrbitDB @ [Open Collective](https://www.opencollective.com/orbitdb)
+- OrbitDB @ [Open Collective](https://www.opencollective.com/orbitdb)*
 - Filecoin: f1yormd66irjllmt2vm4iqiffmssezrh2tldlyr6a
 - Ethereum: 0x21cC4A4bFDbD2A328Bb1dC509376982803ED25A7
 - Polygon: 0x21cC4A4bFDbD2A328Bb1dC509376982803ED25A7
+- Bitcoin: 1F9eiNxfPuJoBBXpKvNcptLD2FsS4YtNr6
+- Bitcoin Cash: bitcoincash:qq2gvmcz40f97v8ldjwuyxu0mqexll2p6qspmgurpn
+- Litecoin: LM6UpfNEB3sw7wXPms8CmoiHrWWMVLy5Fw
+- Monero: 45DP3hor5ZZgsToCnsrEVt3HTzS4z36mhSBnDeSBjr8mFdMg5FWTgvENug46a7AoHojWdYT6jdXt8ZFKyXmCtCME2JMaxHD
+- Dogecoin: D71d6i13PoYAQ91qLK8U3Yp8XRsNbVtiNh
+- Solana: 24rr9ZLCAHKj7JXRdhtXLdWb8NB5S7JtKaFjqQQ41WD3
+- Tron: TKUSreyfioRVfLVr2qokuFLDrg6QiRxHYj
+
+\* Please be aware that Open Collective takes a percentage of each donation.
+
+If you are donating a large sum and would like to ensure it reaches our wallet, please send a small test and email us to ensure we have received it.
 
 ## Need help implementing OrbitDB?
 
