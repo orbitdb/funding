@@ -22,7 +22,9 @@ If you are interested in sponsoring our developers or contributing to our runnin
 - Solana: 24rr9ZLCAHKj7JXRdhtXLdWb8NB5S7JtKaFjqQQ41WD3
 - Tron: TKUSreyfioRVfLVr2qokuFLDrg6QiRxHYj
 
-\* Please be aware that Open Collective takes a percentage of each donation.
+\* Please be aware that Open Collective takes a sizeable percentage of each donation.
+
+If you would like to fund a specific project at OrbitDB, check out our new [Floss Fund](https://dir.floss.fund/view/@orbitdb.org).
 
 If you are donating a large sum and would like to ensure it reaches our wallet, please send a small test and email us to ensure we have received it.
 
