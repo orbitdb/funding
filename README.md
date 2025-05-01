@@ -9,18 +9,18 @@ OrbitDB is built by a group of volunteers who are passionate about decentralizat
 If you are interested in sponsoring our developers or contributing to our running costs, you can donate via the following methods:
 
 - OrbitDB @ [Open Collective](https://www.opencollective.com/orbitdb)*
-- Ethereum: 0x7d8d6519c81de8017d473247b4374fafb42996f5
-- Polygon: 0x7d8d6519c81de8017d473247b4374fafb42996f5
-- Avalanche: 0x7d8d6519c81de8017d473247b4374fafb42996f5
-- Arbitrum: 0x7d8d6519c81de8017d473247b4374fafb42996f5
-- Optimism: 0x7d8d6519c81de8017d473247b4374fafb42996f5
-- Bitcoin: 1F9eiNxfPuJoBBXpKvNcptLD2FsS4YtNr6
-- Bitcoin Cash: bitcoincash:qq2gvmcz40f97v8ldjwuyxu0mqexll2p6qspmgurpn
-- Litecoin: LM6UpfNEB3sw7wXPms8CmoiHrWWMVLy5Fw
-- Monero: 45DP3hor5ZZgsToCnsrEVt3HTzS4z36mhSBnDeSBjr8mFdMg5FWTgvENug46a7AoHojWdYT6jdXt8ZFKyXmCtCME2JMaxHD
-- Dogecoin: D71d6i13PoYAQ91qLK8U3Yp8XRsNbVtiNh
-- Solana: 24rr9ZLCAHKj7JXRdhtXLdWb8NB5S7JtKaFjqQQ41WD3
-- Tron: TKUSreyfioRVfLVr2qokuFLDrg6QiRxHYj
+- Ethereum: 
+- Polygon: 
+- Avalanche: 
+- Arbitrum: 
+- Optimism: 
+- Bitcoin: 
+- Bitcoin Cash: 
+- Litecoin: 
+- Monero: 
+- Dogecoin:
+- Solana:
+- Tron:
 
 \* Please be aware that Open Collective takes a sizeable percentage of each donation.
 
